@@ -23,6 +23,10 @@
 5. [Imputing multilevel data](https://gerkovink.github.io/miceVignettes/Multi_level/Multi_level_data.html)
 6. [Sensitivity analysis with `mice`](https://gerkovink.github.io/miceVignettes/Sensitivity_analysis/Sensitivity_analysis.html)
 7. [Generate missing values with `ampute`](https://rianneschouten.github.io/mice_ampute/vignette/ampute.html)
+8. [Combining inferences](https://www.gerkovink.com/miceVignettes/Combining_inferences/Combining_inferences.html)
+9. [`futuremice`: Wrapper for parallel MICE imputation through futures](https://www.gerkovink.com/miceVignettes/futuremice/Vignette_futuremice.html)
+10. [Multivariate PMM for imputing multiple columns simultaneously](https://www.gerkovink.com/miceVignettes/mpmm/mpmm-vignette.html)
+11. [Generating synthetic data with high utility using mice](https://www.gerkovink.com/miceVignettes/synthetic/synthetic.html)
 
 ### Code from publications
 
